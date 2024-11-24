@@ -36,10 +36,12 @@ Future Enhancements:
 1. Add more text processing options (e.g., removing whitespace, converting text to lowercase).
 2. Add a feature to save or download the cleaned text.
 3. Extend the application to handle text files or bulk text inputs.
-![Screenshot (308)](https://github.com/user-attachments/assets/e30c5760-9778-4c![Screenshot (310)](https://github.com/user-attachments/assets/eb7c8bdc-b822-49ac-b563-0f32f21301a9)
+
+
+![Screenshot (308)](https://github.com/user-attachments/assets/e30c5760-9778-4ce5-9ca3-8b052d98f430)
+![Screenshot (310)](https://github.com/user-attachments/assets/eb7c8bdc-b822-49ac-b563-0f32f21301a9)
 ![Screenshot (311)](https://github.com/user-attachments/assets/d4e4f8ae-62cd-4959-be9f-c787115b40f7)
 
-e5-9ca3-8b052d98f430)
 
 
 
