@@ -30,7 +30,7 @@ The cleaned text is displayed on a new page with the processed content.
 
 Example Use Case:
 - Content Clean-up: Remove punctuation from text that needs to be cleaned up before further processing or analysis.
-- Data Preprocessing: Ideal for scenarios where text data needs to be stripped of non-essential symbols before performing tasks like tokenization or sentiment analysis.
+- Data Preprocessing: Ideal for scenarios where text data needs to be stripped of non-essential symbols before performing tasks likes tokenization or sentiment analysis.
 
 Future Enhancements:
 1. Add more text processing options (e.g., removing whitespace, converting text to lowercase).
