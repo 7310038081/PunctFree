@@ -2,7 +2,7 @@
 This is a simple web application built using Django and HTML that allows users to input text and remove all punctuation marks. The application is designed to clean up any text by eliminating unnecessary characters, such as commas, periods, exclamation marks, question marks, and more, leaving only the words.
 
 Features:
-- Text Input: Users can input text through a textarea.
+- Text Input: Users can input text through a textarea..
 - Punctuation Removal: Users can check a box to remove all punctuation from the text.
 - Clean Output: The cleaned text (without punctuation) is displayed on a new page.
 - Easy to Use: Simple form-based interface for submitting text and selecting options
